@@ -4,7 +4,6 @@ import com.exercise.sa2files.application.IFichero;
 import com.exercise.sa2files.application.IFileStorage;
 import com.exercise.sa2files.domain.Fichero;
 import com.exercise.sa2files.shared.UnprocesableException;
-import org.apache.coyote.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
 import org.springframework.http.HttpStatus;
